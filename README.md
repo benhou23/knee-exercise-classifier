@@ -1,6 +1,6 @@
 # Knee rehabilitation exercise recognition
 
-Design project at Chalmers by Linnea Person, Leo Barberan and Benjamin Houshmand.
+Design project at Chalmers by Linnea Persson, Leo Barberan and Benjamin Houshmand.
 
 We put a rotary encoder and two IMUs on a medical knee brace and trained
 classifiers to recognise which of five rehabilitation exercises is being done.
