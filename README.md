@@ -37,8 +37,8 @@ classifiers to recognise which of five rehabilitation exercises is being done.
 | Hybrid CNN + LSTM, 3 classes| encoder + IMU1       | **0.86**      |
 
 The numbers are from one training run each (no fixed seed), so expect some
-variation when rerunning. The CNN with encoder + IMU2 still has to be rerun
-(the old run had a data-loading mistake).
+variation when rerunning. The CNN with encoder + IMU2 is not reported: that
+run had a data-loading error and was not repeated.
 
 Validation accuracy was 0.95-0.99 for most models, much higher than on the
 test set. The validation windows are a random split of the training windows,
